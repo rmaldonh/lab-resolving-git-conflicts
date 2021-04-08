@@ -22,3 +22,4 @@
 	I'm still deciding, but I'm called by the Data Analyst and Data Engineer antetion
 * What is your career goal?
 	My goal is to strengthen my knowledge and data analysis skills to work independently
+
